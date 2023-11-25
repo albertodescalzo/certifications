@@ -1,4 +1,4 @@
-# coursera-certifications
+# Certifications
 
 Here are the links to the Specializations & Courses & Projects at Coursera that I've been completing in the last years:
 
