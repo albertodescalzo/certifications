@@ -21,8 +21,8 @@ Here are the links to the Specializations & Courses & Projects at Coursera that 
 - [AWS Cloud Technical Essentials](https://coursera.org/share/6026461fef79bb9f34b9b34a9208db38)
 
 Analogously for Udemy Courses:
-- [Dive Into Ansible by James Spurin](ude.my/UC-123bcc44-7941-4758-8820-c2c9bf00a640)
-- [Building Automated Machine Images with Hashicorp Packer by Bryan Krausen](ude.my/UC-2a3b3ale-e03a-41c3-84cc-43e1f5522c93)
+- [Dive Into Ansible by James Spurin](https://www.udemy.com/certificate/UC-123bcc44-7941-4758-8820-c2c9bf00a640/)
+- [Building Automated Machine Images with Hashicorp Packer by Bryan Krausen](https://www.udemy.com/certificate/UC-2a3b3a1e-e03a-41c3-84cc-43e1f5522c93/)
 
 Work in Progress:
 - Kubernetes Introduction by James Spurin
