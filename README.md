@@ -27,9 +27,17 @@ Work in progress:
 
 Analogously for Udemy Courses:
 - [Dive Into Ansible by James Spurin](ude.my/UC-123bcc44-7941-4758-8820-c2c9bf00a640)
+- [Building Automated Machine Images with Hashicorp Packer by Bryan Krausen](ude.my/UC-2a3b3ale-e03a-41c3-84cc-43e1f5522c93)
 
 Work in Progress:
-- Dive Into Kubernetes by James Spurin
+- Kubernetes Introduction by James Spurin
+- More than Certified in Terraform 2024 by Derek Morgan
+- DevOps in the Cloud with Terraform, Ansible and Jenkins by Derek Morgan
 - Docker Mastery: with Kubernetes + Swarm by Bret Fisher
 - Devops Beginners to Advanced by Imran Teli
+
+Other trainings:
+- Dive Into Cloud Native (Containers, Kubernetes and the KCNA Exam) by James Spurin 
+- Kubernetes Bootcamp at DevOpsCon
+
 
