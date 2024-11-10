@@ -19,11 +19,6 @@ Here are the links to the Specializations & Courses & Projects at Coursera that 
 - [Structuring Machine Learning Projects](https://coursera.org/share/d35edc0367a02bcf0bcd78a6af679c71)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/0e7bb7bb11c1ca121fc9e0886fb27376)
 - [AWS Cloud Technical Essentials](https://coursera.org/share/6026461fef79bb9f34b9b34a9208db38)
-  
-Work in progress:
-- Reinforcement Learning Specialization (University of Alberta)
-- Set up a Continuous Integration (CI) workflow in CIrcleCI
-
 
 Analogously for Udemy Courses:
 - [Dive Into Ansible by James Spurin](ude.my/UC-123bcc44-7941-4758-8820-c2c9bf00a640)
@@ -39,5 +34,5 @@ Work in Progress:
 Other trainings:
 - Dive Into Cloud Native (Containers, Kubernetes and the KCNA Exam) by James Spurin 
 - Kubernetes Bootcamp at DevOpsCon
-
+- Continuous Integration in GitLab by HIFIS/HIDA  
 
